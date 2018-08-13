@@ -17,7 +17,7 @@ Hello. I am a researcher in Machine Learning. I did my PhD from March 2014 to Ju
 
 # Projects
 
-I develop several iOS apps which leverage recent machine learning algorithms. My main projects are Yomiwa and HanYou ( [www.yomiwa.net](www.yomiwa.net) ), which are Japanese and Chinese dictionaries which feature Optical Character Recognition (OCR) and Natural Language Processing (NLP) capabilies.
+I develop several iOS apps which leverage recent machine learning algorithms. My main projects are Yomiwa and HanYou ( [www.yomiwa.net](https://www.yomiwa.net) ), which are Japanese and Chinese dictionaries which feature Optical Character Recognition (OCR) and Natural Language Processing (NLP) capabilies.
 
 <p>
     <center><a class="badge" href="https://itunes.apple.com/us/app/yomiwa/id670931120?ls=1&mt=8"><img class="badge" src="https://arolet.github.io/res/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Available on the App Store"/></a>

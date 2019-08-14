@@ -6,7 +6,8 @@ layout: home
 ---
 
 Welcome to my webpage. Since September 2018, I am the CEO of [Nomad AI](http://www.nomadai.org), a company which designs and creates apps that leverage artificial intelligence to provide unique features.
-Previously, I was a researcher in Machine Learning at Kyoto Univeristy. I did my PhD from March 2014 to June 2018 at the Yamamoto-Cuturi lab of Kyoto University. I was, and I am still, interested in optimal transport, Riemannian geometry and deep learning.
+
+Previously, I was a researcher in Machine Learning at Kyoto University. I did my PhD from March 2014 to June 2018 at the Yamamoto-Cuturi lab of Kyoto University, under the supervision of [Marco Cuturi](http://marcocuturi.net). I was, and I am still, interested in optimal transport, Riemannian geometry and deep learning.
 
 # Last publications
 * Vivien Seguy et al. [Large-Scale Optimal Transport and Mapping Estimation](https://arxiv.org/abs/1711.02283). ICLR 2018 \[[code](https://github.com/vivienseguy/Large-Scale-OT)\]

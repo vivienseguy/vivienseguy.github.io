@@ -5,6 +5,7 @@ permalink: /resume/
 order: 2
 ---
 
+* September 2018 - Now: CEO of [Nomad AI](http://www.nomadai.org)
 * April 2014 - June 2018: PhD student at the Yamamoto-Cuturi Lab, Kyoto University
 * October 2010 - September 2011: Msc in Applied Mathematics at Imperial College, London
 * October 2007 - September 2010: Student at Ecole Polytechnique, Paris

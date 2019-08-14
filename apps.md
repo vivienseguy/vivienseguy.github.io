@@ -5,6 +5,13 @@ permalink: /apps/
 order: 3
 ---
 
+# Chord AI
+
+<p>
+    <center><a class="badge" href="https://apps.apple.com/app/chord-ai/id1446177109"><img class="badge" src="https://arolet.github.io/res/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Available on the App Store"/></a>
+    </center>
+</p>
+
 # Yomiwa
 
 <p>
@@ -12,8 +19,8 @@ order: 3
         <a href="https://play.google.com/store/apps/details?id=com.yomiwa.yomiwa&hl=en&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img class="badge" alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" /></a>
     </center>
 </p>
- 
- 
+
+
 # HanYou
 
 <p>

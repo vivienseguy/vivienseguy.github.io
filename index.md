@@ -9,6 +9,34 @@ Welcome to my webpage. Since September 2018, I am the CEO of [Nomad AI](http://w
 
 Previously, I was a researcher in Machine Learning at Kyoto University. I did my PhD from March 2014 to June 2018 at the Yamamoto-Cuturi lab of Kyoto University, under the supervision of [Marco Cuturi](http://marcocuturi.net). I was, and I am still, interested in optimal transport, Riemannian geometry and deep learning.
 
+<center>
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" language="javascript">
+<!--
+// Email obfuscator script 2.1 by Tim Williams, University of Arizona
+// Random encryption key feature coded by Andrew Moulden
+// This code is freeware provided these four comment lines remain intact
+// A wizard to generate this code is at http://www.jottings.com/obfuscator/
+{ coded = "lClC6Wq6UZr@UG1Cu.iMG"
+  key = "OP6bt0zLQ1Fg3xGXvZpcyTJwkYsBhH9AU2NnEloIirVeRK7q8DaSj4dmW5uMfC"
+  shift=coded.length
+  link=""
+  for (i=0; i<coded.length; i++) {
+    if (key.indexOf(coded.charAt(i))==-1) {
+      ltr = coded.charAt(i)
+      link += (ltr)
+    }
+    else {     
+      ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
+      link += (key.charAt(ltr))
+    }
+  }
+document.write("<a href='mailto:"+link+"'>Contact me</a>")
+}
+//-->
+</script><noscript>Sorry, you need Javascript on to email me.</noscript>
+</center>
+
 # Last publications
 * Vivien Seguy et al. [Large-Scale Optimal Transport and Mapping Estimation](https://arxiv.org/abs/1711.02283). ICLR 2018 \[[code](https://github.com/vivienseguy/Large-Scale-OT)\]
 * Elsa Cazelles et al. [Geodesic PCA versus Log-PCA of Histograms in the Wasserstein Space](https://arxiv.org/abs/1708.08143). SIAM Journal on Scientific Computing 2018

@@ -7,7 +7,7 @@ layout: home
 
 Welcome to my webpage. Since September 2018, I am the CEO of [Nomad AI OU](http://www.nomadai.org), a company which designs and builds apps featuring powerful AI functionalities. 
 
-Previously, I was a researcher in Machine Learning at Kyoto University. I did my PhD from March 2014 to June 2018 at the Yamamoto-Cuturi lab of Kyoto University, under the supervision of [Marco Cuturi](http://marcocuturi.net). I was and I am still interested in optimal transport, Riemannian geometry and deep learning.
+Previously, I was a researcher in Machine Learning at Kyoto University ([Google Scholar](https://scholar.google.fr/citations?user=zmOWQLsAAAAJ)). I did my PhD from March 2014 to June 2018 at the Yamamoto-Cuturi lab of Kyoto University, under the supervision of [Marco Cuturi](http://marcocuturi.net). I was and I am still interested in optimal transport, Riemannian geometry and deep learning.
 
 <center>
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
@@ -46,7 +46,7 @@ document.write("<a href='mailto:"+link+"'>Contact me</a>")
 * Gastner, Michael T., Vivien Seguy, and Pratyush More. [Fast flow-based algorithm for creating density-equalizing map projections](http://www.pnas.org/content/pnas/early/2018/02/15/1712674115.full.pdf) PNAS 2018 \[[Web page](https://go-cart.io/)\]
 
 
-# Apps at Nomad AI
+# Apps
 
 # Chord AI
 
@@ -67,7 +67,7 @@ document.write("<a href='mailto:"+link+"'>Contact me</a>")
 
 # Yomiwa
 
-The [Yomiwa](http://www.yomiwa.net) project started in 2013, with the aim of building one of the very first Japanese optical recognition app. The [Yomiwa app](https://itunes.apple.com/app/yomiwa/id670931120) has since been updated continuously over the years to become the most advanced Japanese dictionary, translator and optical recognizer on the App Store and Android Store. Since 2014, I am developping the Yomiwa app together with my former PhD colleage [Antoine Rolet](https://arolet.github.io).
+The [Yomiwa](http://www.yomiwa.net) project started in 2013, with the aim of building one of the very first Japanese optical recognition app. The [Yomiwa app](https://itunes.apple.com/app/yomiwa/id670931120) has since been updated continuously over the years to become the most advanced Japanese dictionary, translator and optical recognizer on the iOS and Android app stores. Since 2014, I am developping the Yomiwa app together with my former PhD colleague [Antoine Rolet](https://arolet.github.io).
 
 <p>
     <center><a class="badge" href="https://itunes.apple.com/app/yomiwa/id670931120"><img class="badge" src="https://arolet.github.io/res/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Available on the App Store"/></a>

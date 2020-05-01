@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Welcome to my webpage. Since September 2018, I am the CEO of [Nomad AI OU](http://www.nomadai.org), a company which designs and builds apps featuring powerful AI functionalities. 
+Welcome to my webpage. Since September 2018, I am the CEO of [Nomad AI OU](http://www.nomadai.org), a company which designs and builds apps featuring powerful AI functionalities.
 
 Previously, I was a researcher in Machine Learning at Kyoto University ([Google Scholar](https://scholar.google.fr/citations?user=zmOWQLsAAAAJ)). I did my PhD from March 2014 to June 2018 at the Yamamoto-Cuturi lab of Kyoto University, under the supervision of [Marco Cuturi](http://marcocuturi.net). I was and I am still interested in optimal transport, Riemannian geometry and deep learning.
 
@@ -40,9 +40,7 @@ document.write("<a href='mailto:"+link+"'>Contact me</a>")
 # Last publications
 * B.B. Damodaran, et al. [An Entropic Optimal Transport loss for learning deep neural networks under label noise in remote sensing images](https://arxiv.org/abs/1810.01163) Computer Vision and Image Understanding (2019)
 * Vivien Seguy et al. [Large-Scale Optimal Transport and Mapping Estimation](https://arxiv.org/abs/1711.02283). ICLR 2018 \[[code](https://github.com/vivienseguy/Large-Scale-OT)\]
-* Elsa Cazelles et al. [Geodesic PCA versus Log-PCA of Histograms in the Wasserstein Space](https://arxiv.org/abs/1708.08143). SIAM Journal on Scientific Computing 2018
 * Rolet, Antoine, et al. [Blind Source Separation with Optimal Transport Non-negative Matrix Factorization](https://arxiv.org/abs/1802.05429) EURASIP 2018
-* Mathieu Blondel, Vivien Seguy, Antoine Rolet. [Smooth and Sparse Optimal Transport](https://arxiv.org/abs/1710.06276) AISTATS 2018. \[[code](https://github.com/mblondel/smooth-ot)\]
 * Gastner, Michael T., Vivien Seguy, and Pratyush More. [Fast flow-based algorithm for creating density-equalizing map projections](http://www.pnas.org/content/pnas/early/2018/02/15/1712674115.full.pdf) PNAS 2018 \[[Web page](https://go-cart.io/)\]
 
 
@@ -54,6 +52,7 @@ document.write("<a href='mailto:"+link+"'>Contact me</a>")
 
 <p>
     <center><a class="badge" href="https://apps.apple.com/app/chord-ai/id1446177109"><img class="badge" src="https://arolet.github.io/res/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Available on the App Store"/></a>
+    <a href="https://play.google.com/store/apps/details?id=com.chordai&hl=en"><img alt="Get it on Google Play" width="156" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" /></a>
     </center>
 </p>
 
@@ -85,7 +84,7 @@ The [Yomiwa](http://www.yomiwa.net) project started in 2013, with the aim of bui
 
 # HanYou
 
-The [HanYou app](https://itunes.apple.com/us/app/hanyou-chinese-dictionary-and-translator/id901093520?mt=8) is the Chinese sister-app of Yomiwa. 
+The [HanYou app](https://itunes.apple.com/us/app/hanyou-chinese-dictionary-and-translator/id901093520?mt=8) is the Chinese sister-app of Yomiwa.
 
 <p>
     <center><a class="badge" href="https://itunes.apple.com/us/app/hanyou-chinese-dictionary-and-translator/id901093520?mt=8"><img class="badge" src="https://arolet.github.io/res/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Available on the App Store"/></a>
